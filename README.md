@@ -19,6 +19,7 @@ Link to [governance](./GOVERNANCE.md) document.
 - WG Meeting: NEW NEW DAY AND TIME_[Monday at 11:30 Eastern](https://us06web.zoom.us/j/89400251044?pwd=bthdC5BOwQlahSaKlCxOFKSJ5PZba7.1)_ (bi-weekly beginning July 15, 2024). [Convert to your timezone](https://dateful.com/convert/...).
 - [Meeting notes and Agenda](https://hackmd.io/hq_NOVL4RZS7xYYMqfJ6-A).
 - [Archive of Past Minutes](./minutes).
+- [Google Calendar - OCI FreeBSD Runtime WG Meeting](https://calendar.google.com/calendar/b/2/r?cid=bGludXhmb3VuZGF0aW9uLm9yZ19pMHNhZG8waTM3ZWtuYXI1MXZzdThtZDVoZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ## Documents
 
